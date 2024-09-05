@@ -1,5 +1,7 @@
+[![docker](https://github.com/DiogenesAnalytics/blog_template/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/DiogenesAnalytics/blog_template/actions/workflows/docker-publish.yml)
+
 # Jekyll-Jupyter Blog Template
-A template for building a blog, written in Jupyter Notebooks, and built using Jekyll.
+A template for building a blog, written in Jupyter Notebooks, and using Jekyll.
 
 ## Project Organization
 ```
@@ -40,7 +42,8 @@ high_res_image: "/assets/images/YOUR_HIGH_RES_IMAGE"
 low_res_image: "/assets/images/YOUR_LOW_RES_IMAGE"
 ```
 
-These two
+These two *keys* represent the *"high resolution"* and *"low resolution"* versions
+of your *background image* (respectively).
 
 ## Make
 Here we will document the different `make` commands defined in the `Makefile`.
