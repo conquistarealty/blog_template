@@ -31,3 +31,6 @@ We have **no problem** paying you a **generous** commission, but make no mistake
 
 ## Know Your Place
 Before working together, we need to be on the same page on this topic: *you work for us*. You are being hired by us to *offer* a **service**. You are being paid a non-trivial amount of money by us, and hence **we** are your employer. While we always aim to *work with you* towards our mutual goal of *buying*/*selling* a property, do not forget that you are still our employee. If at any time you forget your place, or over step the **reasonable boundaries** that you as a *professional* should be very aware of you, your employ will be **terminated**.
+
+## Listing Agreement
+Needless to say, we will reserve all our rights to sell whatever property in our possession to whomever and however we want. We will only accept **open listing agreements**. We will not even entertain any other option. Any attempt to persuade, cajole, or manipulate us to change our position in any way will lead to immediate cessation of all communication, and if employed will result in immediate **termination** from our employ.
